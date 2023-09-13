@@ -1,0 +1,28 @@
+{
+  "fiveDayForecast": "5 Day Forecast",
+  "moreDetails": "More details",
+  "loadFiveDay": "Load 5 day",
+  "searchBarPlaceholder": "Enter location...",
+  "threeCharsError": "Please enter more than 3 chars",
+  "noResults": "No results found",
+  "loading": "Loading...",
+  "error": "Error retrieving data",
+  "cityDetails": {
+    "title": "City Details:",
+    "region": "Region:",
+    "country": "Country:",
+    "localTime": "Local time:"
+  },
+  "weatherDetails": {
+    "title": "Weather Details",
+    "windSpeed": "Wind Speed:",
+    "windDir": "Wind Diretion:",
+    "pressure": "Pressure:",
+    "uv": "UV:",
+    "humidity": "Humidity:",
+    "home": "Home:",
+    "min": "Min:",
+    "max": "Max:",
+    "feelsLike": "Feels Like:"
+  }
+}
